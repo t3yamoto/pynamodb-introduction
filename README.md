@@ -6,7 +6,7 @@
 > (PynamoDB は、Amazon の DynamoDB に対する Pythonic なインターフェースです。DynamoDB の API をシンプルかつ強力に抽象化することで、PynamoDB はすぐに開発を開始することができます。)  
 > 引用: https://pynamodb.readthedocs.io/en/stable/
 
-ざっくり言うと DynamoDB アクセス用の Python 製 [ORM](https://e-words.jp/w/O-R%E3%83%9E%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0.html) です。  
+ざっくり言うと DynamoDB アクセス用の Python 製 [ORM](https://codezine.jp/article/detail/5858) です。  
 機能が多いのでポイントとなる機能を中心にかいつまんで解説します。
 
 ## 簡単な例
