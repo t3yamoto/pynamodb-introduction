@@ -206,7 +206,7 @@ PynamoDB で用意されている属性は以下の通りです。
 | BinarySetAttribute   | Sets(Binary)               | set[Binary]              |      |
 | UTCDateTimeAttribute | String                     | datetime.datetime        |      |
 | BooleanAttribute     | Boolean                    | bool                     |      |
-| JSONAttribute        | str                        | dict                     |      |
+| JSONAttribute        | String                     | dict                     |      |
 | MapAttribute         | Map                        | dict                     |      |
 | ListAttribute        | List                       | list                     |      |
 | VersionAttribute     | Number                     | int                      | \*1  |
